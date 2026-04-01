@@ -34,7 +34,7 @@
        alt="LinkedIn" 
        style="border-radius: 8px; height: 32px;" />
 </a>
-<a href="mailto:jags.harshit.s.bisht14@gmail.com" target="_blank">
+<a href="mailto:harshit.s.bisht14@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" 
        alt="Email" 
        style="border-radius: 8px; height: 32px;" />
