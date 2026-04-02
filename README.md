@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshit <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1> 
+<h1 align="center">Hi, I'm Harshit S Bisht<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1> 
 <h3 align="center">Recent Grad in Computer Science from Chandigarh University and exploring the realm of Full Stack Development, Cloud Computing and AIML Research.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
