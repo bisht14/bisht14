@@ -103,9 +103,9 @@
   <h3 style="margin: 0 16px 0 0;">🎨 Designing & Prototyping</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" height="40" alt="Figma logo" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" height="40" alt="Canva logo" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=xd&theme=dark" height="40" alt="Adobe XD logo" />
+<!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=xd&theme=dark" height="40" alt="Adobe XD logo" /> -->
 <img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator&theme=dark" height="40" alt="Adobe Illustrator logo" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=framer&theme=dark" height="40" alt="Framer logo" />
+<!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=framer&theme=dark" height="40" alt="Framer logo" /> -->
 </div>
 
 <!-- 📊 Data Science & ML -->
