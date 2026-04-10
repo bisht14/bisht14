@@ -59,7 +59,7 @@
 <!-- ☁️ Deployment Platforms -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
   <h3 style="margin: 0 16px 0 0;">☁️ Deployment Platforms</h3>
-<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
+<!-- <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" /> -->
 <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
 <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
 <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud logo" />
@@ -68,11 +68,11 @@
 <!-- 🎨 Frontend Frameworks & Libraries -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
   <h3 style="margin: 0 16px 0 0;">🎨 Frontend Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
+<!-- <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" /> -->
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
-<img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo" />
+<!-- <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo" /> -->
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo" />
 <img src="https://skillicons.dev/icons?i=sass" height="40" alt="SASS logo" />
 <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js logo" />
@@ -84,7 +84,7 @@
   <h3 style="margin: 0 16px 0 0;">🛠️ Backend & APIs</h3>
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
 <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI logo" />
-<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel logo" />
+<!-- <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel logo" /> -->
 <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
 <img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM logo" />
 </div>
@@ -121,10 +121,10 @@
 <!-- 🛡️ Version Control & DevOps -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
   <h3 style="margin: 0 16px 0 0;">🛡️ Version Control & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+<!-- <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" /> -->
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
 <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
-<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions logo" />
+<!-- <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions logo" /> -->
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
 </div>
 
@@ -132,7 +132,7 @@
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
   <h3 style="margin: 0 16px 0 0;">⚙️ Productivity & Others</h3>
 <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo" />
-<img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" />
+<!-- <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" /> -->
 <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js logo" />
 </div>
 
