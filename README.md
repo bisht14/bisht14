@@ -9,9 +9,9 @@
 🌱 I’m currently learning **Next.js**, diving deeper into **DSA |  React.js**, and exploring **Backend Frameworks and tools**<br>
 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>
 😄 Lifelong learner, always hungry to grow & explore<br>
-🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>
+<!-- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br> -->
 🧠 Lifelong learner, always hungry to grow & explore.<br>
-💬 Ask me about **🌏 Web Development, 🧑‍💻 UI/UX Designing ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
+💬 Ask me about **🌏 Web Development, ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
 
 <hr>
 
